@@ -18,7 +18,7 @@ pipeSouth.src = "Image/pipeSouth.png";
 
 // một số giá trị biến
 
-let gap = 200;
+let gap = 90;
 let constant;
 
 let bX = 10;
